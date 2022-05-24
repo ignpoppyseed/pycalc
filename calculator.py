@@ -58,7 +58,7 @@ btn6.pack(side=LEFT, fill=BOTH, expand=True)
 btnmu = Button(row2, text="x", width=2, command=lambda: key("*"))
 btnmu.pack(side=LEFT, fill=BOTH, expand=True)
 
-btn1 = Button(row3, text="1", width=2, command=lambda: key(2))
+btn1 = Button(row3, text="1", width=2, command=lambda: key(1))
 btn1.pack(side=LEFT, fill=BOTH, expand=True)
 btn2 = Button(row3, text="2", width=2, command=lambda: key(2))
 btn2.pack(side=LEFT, fill=BOTH, expand=True)
